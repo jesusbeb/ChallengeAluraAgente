@@ -4,4 +4,4 @@
 *venv*/
 
 # Base de datos vectorial local
-chroma_db/
+bd_vectorial/
