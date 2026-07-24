@@ -2,6 +2,3 @@
 
 *__pycache__/
 *venv*/
-
-# Base de datos vectorial local
-bd_vectorial/

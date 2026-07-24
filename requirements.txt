@@ -21,3 +21,7 @@ chromadb==1.5.9
 
 # Manipulación de archivos PDF
 pypdf==6.14.2
+
+# Para crear servidor web local
+fastapi
+uvicorn
