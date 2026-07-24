@@ -2,3 +2,6 @@
 
 *__pycache__/
 *venv*/
+
+# Base de datos vectorial local
+chroma_db/
