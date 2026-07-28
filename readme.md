@@ -79,6 +79,10 @@ uvicorn servidor:app --reload
 
 Una vez que corra, te dará un enlace local (usualmente [http://127.0.0.1:8000]). Copia ese enlace, pégalo en tu navegador web, ¡y listo! Podrás chatear visualmente con tu agente conectado directamente a tu base de datos vectorial y a la IA.
 
+## Link del Deploy
+
+https://challengealuraagente.onrender.com/
+
 ![Vista 1 de la app web](images/appweb1.png)
 
 ![Vista 2 de la app web](images/appweb2.png)
